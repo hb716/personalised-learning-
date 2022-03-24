@@ -1,0 +1,15 @@
+{
+    "introPage" : {
+        "showIntroPage": true,
+        "title": "Quiz",
+        "introduction": "Thanks for taking the quiz",
+        "startButtonText": "Start"
+    },
+    "progressType":"dots",
+
+    "file": {
+        "path": "images\/earth.jpg",
+        "width": 300,
+        "height": 300
+      }
+}

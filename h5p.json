@@ -1,0 +1,19 @@
+
+{
+    "title": "Question Test",
+    "language": "en",
+    "author": "Harry Brown",
+    "license": "CC BY-SA",
+    "licenseVersion": "4.0",
+    "authors":[{
+      "name":"The author name",
+      "role":"Author"
+    }],
+    "preloadedDependencies": [{
+      "machineName": "H5P.QuestionSet",
+      "majorVersion": 1,
+      "minorVersion": 1 
+    }],
+    "mainLibrary": "H5P.QuestionSet",
+    "embedTypes": ["div"]
+  }
